@@ -8,3 +8,6 @@
 - Chargebacks, and payments
 - Lieing on products
 - etc.
+
+http://github.com - automatic!
+[GitHub](http://github.com)
