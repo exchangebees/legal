@@ -9,5 +9,5 @@
 - Lieing on products
 - etc.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[Link To document revision history](https://github.com/exchangebees/legal)
