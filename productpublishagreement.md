@@ -10,4 +10,3 @@
 - etc.
 
 
-[Link To document revision history](https://github.com/exchangebees/legal)
