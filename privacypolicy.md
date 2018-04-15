@@ -22,33 +22,33 @@ Financial information, such as data related to your payment method (e.g. valid c
 
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site to:
 
-● Create and manage your account.
+- Create and manage your account.
 
-● Email you regarding your account or order.
+- Email you regarding your account or order.
 
-● Fulfill and manage purchases, orders, payments, and other transactions related to the Site.
+- Fulfill and manage purchases, orders, payments, and other transactions related to the Site.
 
-● Generate a personal profile about you to make future visits to the Site more personalized.
+- Generate a personal profile about you to make future visits to the Site more personalized.
 
-● Send you a newsletter.
+- Send you a newsletter.
 
-● Request feedback and contact you about your use of the Site.
+- Request feedback and contact you about your use of the Site.
 
-● Resolve disputes and troubleshoot problems.
+- Resolve disputes and troubleshoot problems.
 
-● Respond to product and customer service requests.
+- Respond to product and customer service requests.
 
-● Perform other business activities as needed.
+- Perform other business activities as needed.
 
-● Compile anonymous statistical data and analysis for use internally or with third parties.
+- Compile anonymous statistical data and analysis for use internally or with third parties.
 
-● Deliver targeted advertising, coupons, newsletters, and promotions, and other information regarding our website and mobile application to you.
+- Deliver targeted advertising, coupons, newsletters, and promotions, and other information regarding our website and mobile application to you.
 
-● Increase the efficiency and operation of the Site.
+- Increase the efficiency and operation of the Site.
 
-● Monitor and analyze usage and trends to improve your experience with the Site.
+- Monitor and analyze usage and trends to improve your experience with the Site.
 
-● Offer new products, services, and/or recommendations to you.
+- Offer new products, services, and/or recommendations to you.
 
 **DISCLOSURE OF YOUR INFORMATION**
 
@@ -110,7 +110,7 @@ Account Information
 
 You may at any time review or change the information in your account or terminate your account by:
 
-●  Contacting us using the contact information provided.
+-  Contacting us using the contact information provided.
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
 
@@ -118,7 +118,7 @@ Emails and Communications
 
 If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by:
 
-●  Contacting us using the contact information provided.
+-  Contacting us using the contact information provided.
 
 If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
 
