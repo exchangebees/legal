@@ -1,9 +1,3 @@
-TERMS OF USE
-
-Last updated February 01, 2018
-
-
-
 **AGREEMENT TO TERMS**
 
 ** **
